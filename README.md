@@ -14,16 +14,22 @@ In this regression task we will predict the percentage of marks that a student i
 From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 # TASK-4
-## To explore Business Analytics
+## To explore Business Analytics - Retail
 Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’. You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
 
 # Task-5
-## Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
-
+## Exploratory Data Analysis - Terrorism
+Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
-
 ● What all security issues and insights you can derive by EDA?
 
 # TASK-6
 ## To Explore Decision Tree Algorithm
 For the given ‘Iris’ dataset, create the Decision Tree classifier and visualize it graphically. The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
+
+# TASK-7
+## Exploratory Data Analysis - Sports
+
+Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
+● Suggest teams or players a company should endorse for its products.
